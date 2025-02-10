@@ -138,13 +138,13 @@ header {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   width: auto;
   height: 84px;
   margin: 0 auto;
   font-family: Arial, sans-serif;
-  background-color: #F5F7FA;
+  background-color: #f5f7fa;
 }
 header nav {
   width: 1140.75px;
@@ -152,8 +152,8 @@ header nav {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 166.25px;
 }
 header nav .logo {
@@ -163,11 +163,11 @@ header nav .logo {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 8px;
   font-weight: 600;
   font-size: 22px;
@@ -177,8 +177,8 @@ header nav .nav_log_sign_in_gap {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 124.5px;
 }
 header nav .nav_log_sign_in_gap .navigation {
@@ -197,8 +197,8 @@ header nav .login_signup {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 14px;
 }
 header nav .login_signup h4 {
@@ -208,12 +208,12 @@ header nav .login_signup h4 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  color: #4CAF4F;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #4caf4f;
   font-size: 15px;
 }
 header nav .login_signup a {
@@ -222,16 +222,16 @@ header nav .login_signup a {
 header nav .login_signup a button {
   width: 89px;
   height: 38px;
-  background-color: #4CAF4F;
+  background-color: #4caf4f;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   border-radius: 6px;
   border: none;
   font-size: 14px;
@@ -240,7 +240,7 @@ header nav .login_signup a button {
   transition: all 0.3s ease;
 }
 header nav .login_signup a button:active {
-  background-color: #388E3B;
+  background-color: #388e3b;
 }
 header nav .login_signup a button.focus {
   outline: 2px solid #666;
@@ -255,13 +255,13 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 70px;
-  background-color: #F5F7FA;
+  background-color: #f5f7fa;
   font-family: Arial, sans-serif;
   padding-top: 80px;
 }
@@ -270,11 +270,11 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 104px;
 }
 .section_1_title .section_1_info .section_1_text_info {
@@ -285,24 +285,24 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 30px;
 }
 .section_1_title .section_1_info .section_1_text_info h1 {
   font-size: 55px;
   font-weight: 550;
-  color: #4D4D4D;
+  color: #4d4d4d;
 }
 .section_1_title .section_1_info .section_1_text_info h2 {
   font-size: 55px;
-  color: #4CAF4F;
+  color: #4caf4f;
   font-weight: 550;
 }
 .section_1_title .section_1_info .section_1_text_info h3 {
@@ -317,13 +317,13 @@ header nav .login_signup a button.focus {
   height: 39px;
   border: none;
   border-radius: 4px;
-  background-color: #4CAF4F;
+  background-color: #4caf4f;
   color: white;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
 .section_1_title .section_1_info .section_1_text_info a button:active {
-  background-color: #388E3B;
+  background-color: #388e3b;
 }
 .section_1_title .section_1_info .section_1_text_info a button.focus {
   outline: 2px solid #666;
@@ -333,14 +333,14 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 8px;
 }
 .section_1_title .atributes_dot h5 {
   width: 10px;
   height: 10px;
-  background-color: #4CAF4F;
+  background-color: #4caf4f;
   border-radius: 50%;
 }
 .section_1_title .atributes_dot h6 {
@@ -360,14 +360,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 41px;
   padding-top: 40px;
   padding-bottom: 65px;
@@ -378,19 +378,19 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 10px;
 }
 .section_2 .section_2_text_info h1 {
   font-size: 33px;
-  color: #4D4D4D;
+  color: #4d4d4d;
   font-weight: 550;
 }
 .section_2 .section_2_text_info h2 {
@@ -402,8 +402,8 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 140px;
 }
 
@@ -418,14 +418,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 17px;
 }
 .section_3 .section_3_text_info {
@@ -434,11 +434,11 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 10px;
 }
 .section_3 .section_3_text_info h1 {
@@ -449,12 +449,12 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  color: #4D4D4D;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #4d4d4d;
   font-weight: 550;
 }
 .section_3 .section_3_text_info h2 {
@@ -466,8 +466,8 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 127.5px;
 }
 .section_3 .section_3_cards .card {
@@ -478,14 +478,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   border-radius: 8px;
-  -webkit-box-shadow: 0px 2px 5px 0px #ABBED1;
-          box-shadow: 0px 2px 5px 0px #ABBED1;
+  -webkit-box-shadow: 0px 2px 5px 0px #abbed1;
+  box-shadow: 0px 2px 5px 0px #abbed1;
   gap: 16px;
   padding-top: 24px;
 }
@@ -495,11 +495,11 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 8px;
 }
 .section_3 .section_3_cards .card .card_text_info h1 {
@@ -508,7 +508,7 @@ header nav .login_signup a button.focus {
   text-align: center;
   font-weight: 550;
   line-height: 1.3;
-  color: #4D4D4D;
+  color: #4d4d4d;
 }
 .section_3 .section_3_cards .card .card_text_info p {
   width: 251px;
@@ -528,11 +528,11 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   padding-top: 52px;
   padding-bottom: 52px;
   font-family: Arial, sans-serif;
@@ -544,14 +544,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   gap: 32px;
 }
 .section_4 .section_4_info .section_4_text_info {
@@ -560,19 +560,19 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   gap: 16px;
 }
 .section_4 .section_4_info .section_4_text_info h1 {
   width: 600px;
-  color: #4D4D4D;
+  color: #4d4d4d;
   font-size: 36px;
   font-weight: 550;
 }
@@ -586,7 +586,7 @@ header nav .login_signup a button.focus {
 }
 .section_4 .section_4_info a button {
   color: white;
-  background-color: #4CAF4F;
+  background-color: #4caf4f;
   width: 151px;
   height: 52px;
   font-size: 15px;
@@ -597,7 +597,7 @@ header nav .login_signup a button.focus {
   transition: all 0.3s ease;
 }
 .section_4 .section_4_info a button:active {
-  background-color: #388E3B;
+  background-color: #388e3b;
 }
 .section_4 .section_4_info a button.focus {
   outline: 2px solid #666;
@@ -611,13 +611,13 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 204px;
-  background-color: #F5F7FA;
+  background-color: #f5f7fa;
   font-family: Arial, sans-serif;
 }
 .section_5 .section_5_title {
@@ -626,14 +626,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   gap: 8px;
 }
 .section_5 .section_5_title h1 {
@@ -642,20 +642,20 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
-  color: #4D4D4D;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  color: #4d4d4d;
   font-size: 34px;
   font-weight: 550;
 }
 .section_5 .section_5_title h1 span {
-  color: #4CAF4F;
+  color: #4caf4f;
 }
 .section_5 .section_5_title h1 p {
-  color: #18191F;
+  color: #18191f;
   font-size: 14px;
 }
 .section_5 .section_5_icon_info {
@@ -663,7 +663,7 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   gap: 40px;
   width: 385px;
 }
@@ -672,8 +672,8 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 16px;
 }
 .section_5 .section_5_icon_info .icon_info .icon_text_info {
@@ -682,14 +682,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
 }
 .section_5 .section_5_icon_info .icon_info .icon_text_info h1 {
-  color: #4D4D4D;
+  color: #4d4d4d;
   font-size: 25px;
   font-weight: 550;
 }
@@ -708,11 +708,11 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   gap: 50px;
   font-family: Arial, sans-serif;
 }
@@ -722,14 +722,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 32px;
 }
 .section_6 .section_6_info .section_6_text_info {
@@ -738,18 +738,18 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 16px;
 }
 .section_6 .section_6_info .section_6_text_info h1 {
-  color: #4D4D4D;
+  color: #4d4d4d;
   font-size: 35px;
   font-weight: 550;
   width: 601px;
@@ -769,14 +769,14 @@ header nav .login_signup a button.focus {
   height: 52px;
   border: none;
   border-radius: 4px;
-  background-color: #4CAF4F;
+  background-color: #4caf4f;
   color: white;
   font-size: 15px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
 .section_6 .section_6_info a button:active {
-  background-color: #388E3B;
+  background-color: #388e3b;
 }
 .section_6 .section_6_info a button.focus {
   outline: 2px solid #666;
@@ -786,18 +786,18 @@ header nav .login_signup a button.focus {
   width: auto;
   margin: 0 auto;
   height: 390px;
-  background-color: #F5F7FA;
+  background-color: #f5f7fa;
   padding-top: 32px;
   padding-bottom: 32px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 78px;
   font-family: Arial, sans-serif;
 }
@@ -807,14 +807,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 32px;
 }
 .section_7 .section_7_info .section_7_text_info {
@@ -823,14 +823,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 16px;
 }
 .section_7 .section_7_info .section_7_text_info p {
@@ -845,22 +845,22 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 8px;
 }
 .section_7 .section_7_info .section_7_text_info .section_7_text_info_name h1 {
-  color: #4CAF4F;
+  color: #4caf4f;
   font-size: 19px;
 }
 .section_7 .section_7_info .section_7_text_info .section_7_text_info_name h2 {
-  color: #89939E;
+  color: #89939e;
   font-size: 15px;
 }
 .section_7 .section_7_info .section_7_icon_info {
@@ -868,13 +868,13 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 45px;
   width: 745px;
 }
 .section_7 .section_7_info .section_7_icon_info h1 {
-  color: #4CAF4F;
+  color: #4caf4f;
   font-size: 19px;
   -webkit-transition: all 1s ease;
   transition: all 1s ease;
@@ -883,7 +883,7 @@ header nav .login_signup a button.focus {
   text-decoration: underline;
 }
 .section_7 .section_7_info .section_7_icon_info h1:active {
-  color: #388E3B;
+  color: #388e3b;
 }
 .section_7 .section_7_info .section_7_icon_info h1.focus {
   outline: 2px solid #666;
@@ -901,14 +901,14 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 16px;
 }
 .section_8 .section_8_text_info {
@@ -917,15 +917,15 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 8px;
 }
 .section_8 .section_8_text_info h1 {
-  color: #4D4D4D;
+  color: #4d4d4d;
   font-weight: 550;
   font-size: 30px;
 }
@@ -941,8 +941,8 @@ header nav .login_signup a button.focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 24px;
 }
 .section_8 .section_8_cards .section_8_card {
@@ -959,24 +959,24 @@ header nav .login_signup a button.focus {
   bottom: -45px;
   width: 250px;
   height: 140px;
-  background-color: #F5F7FA;
+  background-color: #f5f7fa;
   border-radius: 8px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   gap: 16px;
-  -webkit-box-shadow: 0px 2px 8px 0px #ABBED1;
-          box-shadow: 0px 2px 8px 0px #ABBED1;
+  -webkit-box-shadow: 0px 2px 8px 0px #abbed1;
+  box-shadow: 0px 2px 8px 0px #abbed1;
 }
 .section_8 .section_8_cards .section_8_card .card-info p {
   text-align: center;
@@ -988,7 +988,7 @@ header nav .login_signup a button.focus {
   margin: 0px;
 }
 .section_8 .section_8_cards .section_8_card .card-info h1 {
-  color: #4CAF4F;
+  color: #4caf4f;
   font-size: 14px;
   font-weight: 550;
   margin: 0px;
@@ -999,7 +999,7 @@ header nav .login_signup a button.focus {
   text-decoration: underline;
 }
 .section_8 .section_8_cards .section_8_card .card-info h1:active {
-  color: #388E3B;
+  color: #388e3b;
 }
 .section_8 .section_8_cards .section_8_card .card-info h1.focus {
   outline: 2px solid #666;
@@ -1014,16 +1014,16 @@ header nav .login_signup a button.focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   gap: 32px;
-  background-color: #F5F7FA;
+  background-color: #f5f7fa;
   font-family: Arial, sans-serif;
 }
 .section_9 p {
@@ -1041,13 +1041,13 @@ header nav .login_signup a button.focus {
   border: none;
   width: 178px;
   height: 52px;
-  background-color: #4CAF4F;
+  background-color: #4caf4f;
   color: white;
   border-radius: 4px;
   font-size: 15px;
 }
 .section_9 a button:active {
-  background-color: #388E3B;
+  background-color: #388e3b;
 }
 .section_9 a button.focus {
   outline: 2px solid #666;
@@ -1060,8 +1060,8 @@ footer {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 125px;
   font-family: Arial, sans-serif;
   padding: 64px 165px 64px 165px;
@@ -1075,14 +1075,14 @@ footer .footer_logo {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 40px;
 }
 footer .footer_logo h1 {
@@ -1091,7 +1091,7 @@ footer .footer_logo h1 {
 }
 footer .footer_logo p {
   width: 215px;
-  color: #F5F7FA;
+  color: #f5f7fa;
   line-height: 1.6;
 }
 footer .footer_logo .footer_icons ul {
@@ -1100,24 +1100,24 @@ footer .footer_logo .footer_icons ul {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   gap: 16px;
 }
 footer .footer_logo .footer_icons ul li {
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  background-color: #3B464C;
+  background-color: #3b464c;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 footer .footer_logo .footer_icons ul li a {
   text-decoration: none;
@@ -1128,8 +1128,8 @@ footer .footer_text_info {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   gap: 30px;
 }
 footer .footer_text_info .footer_text_info_company {
@@ -1139,14 +1139,14 @@ footer .footer_text_info .footer_text_info_company {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 24px;
 }
 footer .footer_text_info .footer_text_info_company h1 {
@@ -1158,28 +1158,52 @@ footer .footer_text_info .footer_text_info_company .footer_company_list ul {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 12px;
 }
-footer .footer_text_info .footer_text_info_company .footer_company_list ul li a {
+footer
+  .footer_text_info
+  .footer_text_info_company
+  .footer_company_list
+  ul
+  li
+  a {
   text-decoration: none;
-  color: #F5F7FA;
+  color: #f5f7fa;
   font-size: 14px;
 }
-footer .footer_text_info .footer_text_info_company .footer_company_list ul li a:hover {
+footer
+  .footer_text_info
+  .footer_text_info_company
+  .footer_company_list
+  ul
+  li
+  a:hover {
   text-decoration: underline;
 }
-footer .footer_text_info .footer_text_info_company .footer_company_list ul li a:active {
-  color: #388E3B;
+footer
+  .footer_text_info
+  .footer_text_info_company
+  .footer_company_list
+  ul
+  li
+  a:active {
+  color: #388e3b;
 }
-footer .footer_text_info .footer_text_info_company .footer_company_list ul li a.focus {
+footer
+  .footer_text_info
+  .footer_text_info_company
+  .footer_company_list
+  ul
+  li
+  a.focus {
   outline: 2px solid #666;
 }
 footer .footer_text_info .footer_text_info_support {
@@ -1189,14 +1213,14 @@ footer .footer_text_info .footer_text_info_support {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 24px;
 }
 footer .footer_text_info .footer_text_info_support h1 {
@@ -1208,28 +1232,52 @@ footer .footer_text_info .footer_text_info_support .footer_support_list ul {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 12px;
 }
-footer .footer_text_info .footer_text_info_support .footer_support_list ul li a {
+footer
+  .footer_text_info
+  .footer_text_info_support
+  .footer_support_list
+  ul
+  li
+  a {
   text-decoration: none;
-  color: #F5F7FA;
+  color: #f5f7fa;
   font-size: 14px;
 }
-footer .footer_text_info .footer_text_info_support .footer_support_list ul li a:hover {
+footer
+  .footer_text_info
+  .footer_text_info_support
+  .footer_support_list
+  ul
+  li
+  a:hover {
   text-decoration: underline;
 }
-footer .footer_text_info .footer_text_info_support .footer_support_list ul li a:active {
-  color: #388E3B;
+footer
+  .footer_text_info
+  .footer_text_info_support
+  .footer_support_list
+  ul
+  li
+  a:active {
+  color: #388e3b;
 }
-footer .footer_text_info .footer_text_info_support .footer_support_list ul li a.focus {
+footer
+  .footer_text_info
+  .footer_text_info_support
+  .footer_support_list
+  ul
+  li
+  a.focus {
   outline: 2px solid #666;
 }
 footer .footer_text_info .footer_text_info_input {
@@ -1238,14 +1286,14 @@ footer .footer_text_info .footer_text_info_input {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   gap: 24px;
 }
 footer .footer_text_info .footer_text_info_input h1 {
@@ -1256,9 +1304,9 @@ footer .footer_text_info .footer_text_info_input .input_container {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: #515B60;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #515b60;
   border-radius: 8px;
   padding: 10px 12px 10px 12px;
 }
@@ -1267,24 +1315,44 @@ footer .footer_text_info .footer_text_info_input .input_container input {
   background-color: transparent;
   border: none;
 }
-footer .footer_text_info .footer_text_info_input .input_container input::-webkit-input-placeholder {
-  color: #D9DBE1;
+footer
+  .footer_text_info
+  .footer_text_info_input
+  .input_container
+  input::-webkit-input-placeholder {
+  color: #d9dbe1;
   font-size: 13px;
 }
-footer .footer_text_info .footer_text_info_input .input_container input::-moz-placeholder {
-  color: #D9DBE1;
+footer
+  .footer_text_info
+  .footer_text_info_input
+  .input_container
+  input::-moz-placeholder {
+  color: #d9dbe1;
   font-size: 13px;
 }
-footer .footer_text_info .footer_text_info_input .input_container input:-ms-input-placeholder {
-  color: #D9DBE1;
+footer
+  .footer_text_info
+  .footer_text_info_input
+  .input_container
+  input:-ms-input-placeholder {
+  color: #d9dbe1;
   font-size: 13px;
 }
-footer .footer_text_info .footer_text_info_input .input_container input::-ms-input-placeholder {
-  color: #D9DBE1;
+footer
+  .footer_text_info
+  .footer_text_info_input
+  .input_container
+  input::-ms-input-placeholder {
+  color: #d9dbe1;
   font-size: 13px;
 }
-footer .footer_text_info .footer_text_info_input .input_container input::placeholder {
-  color: #D9DBE1;
+footer
+  .footer_text_info
+  .footer_text_info_input
+  .input_container
+  input::placeholder {
+  color: #d9dbe1;
   font-size: 13px;
 }
 footer .footer_text_info .footer_text_info_input .input_container button {
@@ -1313,15 +1381,15 @@ footer .footer_text_info .footer_text_info_input .input_container button {
   footer {
     gap: 100px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 }
 @media (max-width: 1200px) {
   header {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   header nav {
     gap: 100px;
@@ -1334,8 +1402,8 @@ footer .footer_text_info .footer_text_info_input .input_container button {
 @media (max-width: 1180px) {
   header {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   header nav {
     gap: 80px;
@@ -1371,15 +1439,15 @@ footer .footer_text_info .footer_text_info_input .input_container button {
   footer {
     gap: 100px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 }
 @media (max-width: 1130px) {
   header {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   header nav {
     gap: 50px;
@@ -1462,12 +1530,12 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 776px;
     height: 112px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   .section_1_title .section_1_info .section_1_text_info {
     width: 410px;
@@ -1554,7 +1622,7 @@ footer .footer_text_info .footer_text_info_input .input_container button {
   }
   .section_7 {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     height: 700px;
   }
   .section_7 .section_7_info {
@@ -1562,13 +1630,13 @@ footer .footer_text_info .footer_text_info_input .input_container button {
   }
   .section_7 .section_7_info .section_7_text_info {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_7 .section_7_info .section_7_text_info .section_7_text_info_name {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_7 .section_7_info .section_7_text_info p {
     text-align: center;
@@ -1613,62 +1681,62 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 445px;
     height: 700px;
     margin-top: 60px;
   }
   .section_4 .section_4_info {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_4 .section_4_info .section_4_text_info {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_4 .section_4_info .section_4_text_info P {
     text-align: center;
   }
   .section_5 {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     height: 400px;
     gap: 0px;
   }
   .section_5 .section_5_icon_info {
     width: 600px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   .section_5 .section_5_title {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_5 .section_5_title h1 {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_6 {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 440px;
     height: 830px;
     gap: 30px;
   }
   .section_6 .section_6_info {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_6 .section_6_info .section_6_text_info {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_6 .section_6_info .section_6_text_info h1 {
     text-align: center;
@@ -1681,30 +1749,30 @@ footer .footer_text_info .footer_text_info_input .input_container button {
   }
   .section_8 .section_8_cards {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: auto;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 60px;
   }
   footer {
     width: auto;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     gap: 50px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     padding: 50px 0px 50px 0px;
   }
   footer .footer_logo {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   footer .footer_logo p {
     text-align: center;
@@ -1723,18 +1791,18 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 450px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   .section_1_title {
     height: 800px;
   }
   .section_1_title .section_1_info {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 390px;
   }
   .section_1_title .section_1_info .section_1_text_info {
@@ -1742,8 +1810,8 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_1_title .section_1_info .section_1_text_info h3 {
     text-align: center;
@@ -1753,10 +1821,10 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     width: 345px;
   }
   .section_3 {
@@ -1768,11 +1836,11 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 435px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   .section_4 {
     margin-top: 0px;
@@ -1788,18 +1856,18 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .section_7 .section_7_info .section_7_text_info p {
     width: 465px;
   }
   .section_7 .section_7_info .section_7_icon_info {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     width: 500px;
   }
   .section_9 {
@@ -1824,12 +1892,12 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     width: 290px;
     gap: 30px;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   .section_3 .section_3_text_info h1 {
     width: 445px;
@@ -1848,10 +1916,10 @@ footer .footer_text_info .footer_text_info_input .input_container button {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     width: 285px;
   }
   .section_1_title .section_1_info {
@@ -1975,4 +2043,4 @@ footer .footer_text_info .footer_text_info_input .input_container button {
   footer .footer_text_info .footer_text_info_company {
     width: 100px;
   }
-}/*# sourceMappingURL=global.css.map */
+} /*# sourceMappingURL=global.css.map */
